@@ -38,7 +38,7 @@ In this folder, you will find SQL queries that use the NATURAL JOIN clause. Natu
 To get started with the SQL scripts in this repository, clone the repository to your local machine and navigate to the desired folder to explore the SQL queries.
 
 ```
-git clone https://github.com/yourusername/sql-practice.git
+git clone https://github.com/TalhaHayat/sql-basic.git
 cd sql-practice/Output
 ```
 
