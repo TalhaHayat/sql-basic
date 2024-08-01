@@ -39,7 +39,7 @@ To get started with the SQL scripts in this repository, clone the repository to 
 
 ```
 git clone https://github.com/TalhaHayat/sql-basic.git
-cd sql-practice/Output
+cd sql-basic/Output
 ```
 
 You can run the SQL scripts in your preferred SQL environment to see the results and further understand the concepts.
